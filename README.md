@@ -1,6 +1,7 @@
 # SentiFII
 
-Scripts utilizados no projeto de inovação tecnológica SentiFII.
+Scripts utilizados no projeto de inovação tecnológica SentiFII. Criado para o Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação do IFMG - Campus
+Bambuí.
 
 # Visão Geral
 
